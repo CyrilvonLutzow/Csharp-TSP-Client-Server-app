@@ -1,0 +1,14 @@
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\niko\documents\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Niko\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\PointDLL.dll
+C:\Users\Niko\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\PointDLL.pdb
+C:\Users\Niko\Documents\Visual Studio 2013\Projects\TSP_Client_Server_App\Server\bin\Debug\Server.exe.config
+C:\Users\Niko\Documents\Visual Studio 2013\Projects\TSP_Client_Server_App\Server\obj\Debug\Server.exe
+C:\Users\Niko\Documents\Visual Studio 2013\Projects\TSP_Client_Server_App\Server\obj\Debug\Server.pdb
+C:\Users\Niko\Dropbox\Repos\TSP_Client_Server_App\Server\bin\Debug\Server.exe.config
+C:\Users\Niko\Dropbox\Repos\TSP_Client_Server_App\Server\obj\Debug\Server.exe
+C:\Users\Niko\Dropbox\Repos\TSP_Client_Server_App\Server\obj\Debug\Server.pdb
